@@ -1,0 +1,42 @@
+h1{
+	font: verdana;
+	
+}
+
+.red{
+	color: red;
+}
+.green{
+	color: green;
+}
+
+.blue{
+	color: blue;
+}
+
+.grande{
+	font-size:xxx-large;
+}
+
+.piccolo
+{
+	font-size: small;
+}
+
+.bordo{
+	border: 1px solid blue;
+	border-radius: 80px
+	color: black
+}
+
+div
+{
+	width: 250px;
+	//text-align: center;
+	padding: 25px 25px 25px 25px
+}
+
+body
+{
+	background-color:white;
+}
